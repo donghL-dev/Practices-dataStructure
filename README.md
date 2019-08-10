@@ -12,7 +12,7 @@
 * 저장소를 `clone`
 
     ```bash
-    $ git clone https://github.com/donghL-dev/Project-ToDoList.git
+    $ git clone https://github.com/donghL-dev/Practices-dataStructure.git
     ```
 
 * IntelliJ IDEA(>= 2018.3)에서 해당 프로젝트를 `Open`
