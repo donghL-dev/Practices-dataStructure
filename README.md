@@ -23,4 +23,6 @@
 
     * ArrayList
 
-        * [ ] add, addall
+        * [x] add, addall
+
+        * [ ] remove, removeall
